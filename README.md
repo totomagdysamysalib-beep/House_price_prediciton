@@ -15,7 +15,7 @@ Here is the performance summary of the models based on the *R² Score*:
 
 | Model | R² Score |
 | :--- | :--- |
-| *Random Forest Regression* | *0.800* |
+| *Random Forest Regression* | *0.810* |
 | *Support Vector Regression (SVR)* | *0.756* |
 | *Polynomial Regression* | *0.692* |
 | *Decision Tree Regression* | *0.642* |
